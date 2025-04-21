@@ -8,7 +8,7 @@ cd neural-shopping
 python3 -m venv venv
 source venv/bin/activate
 ```
-#this generates the PKL files 
+# this generates the PKL files 
 ```bash
 pip install -r requirements.txt
 python train.py
